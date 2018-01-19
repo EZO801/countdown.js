@@ -1,4 +1,6 @@
 # [Countdown.js][1]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fcountdown.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fcountdown.js?ref=badge_shield)
+
 
 A simple JavaScript API for producing an accurate, intuitive description of the timespan between two Date instances.
 
@@ -189,3 +191,6 @@ Copyright (c) 2006-2011 Stephen M. McKamey
 
   [1]: http://countdownjs.org
   [2]: https://bitbucket.org/mckamey/countdown.js/raw/tip/LICENSE.txt
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fcountdown.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fcountdown.js?ref=badge_large)
